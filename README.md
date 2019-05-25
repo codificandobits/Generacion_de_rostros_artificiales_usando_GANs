@@ -8,7 +8,6 @@ Código fuente de [este](https://youtu.be/dlnA1uiWu90) video, en donde se muestr
 - *ejemplos*: carpeta con 100 ejemplos de imágenes obtenidas tras el entrenamiento de la GAN.
 - *utilidades.py*: funciones para la lectura del set de entrenamiento, la visualización de las imágenes obtenidas y la generación de imágenes con el modelo entrenado.
 - *generacion_de_rostros.py*: implementación de la GAN para la generación de rostros artificiales
-- *generador.h5*: GAN entrenada (5000 iteraciones)
 
 ## Lecturas recomendadas
 
